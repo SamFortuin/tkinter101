@@ -1,0 +1,3 @@
+![](image/super/1651133551028.png)
+
+Deze UI is uitstekend omdat deze gespiegeld is wat een heel clean gevoel geeft. je kan ook in een handomdraai zien wat je waar equipped hebt. de man uit de screenshot gebruikt de "electric pants" special item en heeft een electricity tree als ability gekozen. je ziet ook de ammo types van de verschillende wapens waardoor je kan zien dat de primairy en secondairy als het waren zijn omgedraaid. iets wat je niet in de screenshot ziet maar wel in de game is dat als je over een item met je muis komt zie je de stats en andere items van het zelfde type die in je inventory zitten snel zien.
