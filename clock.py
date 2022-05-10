@@ -16,7 +16,7 @@ label = tk.Label(window)
 label.configure(textvariable=stringVar,font='ariel 80',bg='cyan',fg='blue')
 label.pack()
 
-window.after(500,updateClock)
+window.after(0,updateClock)
 
 window.mainloop()
 

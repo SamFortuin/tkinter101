@@ -1,5 +1,3 @@
-from turtle import update
-from shortcuts import *
 import tkinter as tk
 from random import choice
 
@@ -11,6 +9,7 @@ if __name__ == '__main__':
     #init
     size = 50
     bomb = tk.Tk()
+    bomb.title('Bomb')
     for i in range(6,0,-1):
         bomb.geometry(f'{size}x{size}')
         size += 50
